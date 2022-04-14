@@ -8,7 +8,7 @@ license = "MIT"
 name = "protected_integer"
 readme = "README.md"
 repository = "https://github.com/lihe07/protected_integer"
-version = "0.1.0"
+version = "0.1.1"
 
 [dependencies]
 num = "0.4.0"
