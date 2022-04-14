@@ -1,0 +1,15 @@
+[package]
+authors = ["lihe07"]
+description = "A simple crate, that protects some variables from being modified by memory tampering tools."
+documentation = "https://doc.rs/protected_integer"
+edition = "2021"
+keywords = ["memory", "tampering", "protection"]
+license = "MIT"
+name = "protected_integer"
+readme = "README.md"
+repository = "https://github.com/lihe07/protected_integer"
+version = "0.1.0"
+
+[dependencies]
+num = "0.4.0"
+rand = "0.8.5"
