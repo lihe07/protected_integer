@@ -46,3 +46,9 @@ test tests::bench_getting ... bench:           0 ns/iter (+/- 0)
 test tests::bench_setting ... bench:           4 ns/iter (+/- 0)
 ```
 
+## Hacking test
+
+You can clone this repo and execute `cargo run --example hacking_test`
+
+Now trying to hack the process with Cheat Engine
+
